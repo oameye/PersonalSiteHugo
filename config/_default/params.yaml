@@ -59,12 +59,10 @@ locale:
 
 features:
   syntax_highlighter:
-    highlight_style: github-dark
     enable: true
     extra_languages:
-      - r
-      - latex
       - julia
+    style: "github"
   math:
     enable: true
   diagram:
@@ -93,7 +91,7 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: ''
+    provider: 'google'
     api_key: ''
     zoom: 15
 

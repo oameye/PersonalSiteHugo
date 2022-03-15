@@ -1,7 +1,25 @@
 ---
 title: How I build this Site
+subtitle: On this page you will find sources and small explenantion how I made this site.
 summary: On this page you will find sources and small explenantion how I made this site.
-date: "2018-06-28T00:00:00Z"
+
+authors:
+- admin
+
+tags:
+- Website
+
+categories:
+- Website
+
+# Link this post with a project
+projects: []
+
+# Date published
+date: "2020-12-13T00:00:00Z"
+
+# Date updated
+lastmod: "2020-12-13T00:00:00Z"
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
