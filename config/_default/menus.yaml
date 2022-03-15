@@ -22,11 +22,11 @@ main:
   - name: Contact
     url: '#contact'
     weight: 60
-  - name: Test
-    url: "test/"
+  - name: EigenfunctionsTISE
+    url: "post/Eigenfunctions"
     weight: 70
   - name: Site
-    url: "buildsite/"
+    url: "post/BuildSite"
     weight: 80
 
 # Link to a PDF of your resume/CV from the menu.

@@ -6,11 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  # theme_night: minimal
+  theme_day: forest #minimal
+  # theme_night: forest
   font: minimal
-  font_size: L
-  # color_theme: ocean
+  font_size: M
 
 # SEO
 
@@ -19,13 +18,13 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A portfolio site for Orjan Ameye.'
+    description: 'Researcher named Orjan Ameye at KU Leuven.'
     twitter: 'OrjanAmeye'
   analytics:
     google_analytics: 'G-9FXW5YQEBV'
     baidu_tongji: ''
   verification:
-    google: ''
+    google: 'google-site-verification=u34eeUp3MTMstO4_LAiR97c6jLYn3oAKz27AqTA5ZGE'
     baidu: ''
 
 # Site header
