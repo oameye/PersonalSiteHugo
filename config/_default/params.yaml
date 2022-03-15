@@ -7,9 +7,10 @@
 
 appearance:
   theme_day: minimal
-  theme_night: minimal
+  # theme_night: minimal
   font: minimal
   font_size: L
+  # color_theme: ocean
 
 # SEO
 
@@ -36,7 +37,7 @@ header:
     show_logo: true
     show_language: false
     show_day_night: true
-    show_search: true
+    show_search: false
     highlight_active_link: true
 
 footer:
@@ -59,6 +60,7 @@ locale:
 
 features:
   syntax_highlighter:
+    highlight_style: github-dark
     enable: true
     extra_languages:
       - r
