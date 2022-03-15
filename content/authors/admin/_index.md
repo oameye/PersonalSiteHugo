@@ -1,77 +1,49 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+title: Orjan Ameye
+role: Master student in theoretical Physics
+avatar_filename: avatar.jpg
+bio: "My research interests include theoretical condensed matter, such as
+  nonequilibrium physics, quantum Many-Body theory, statistical mechanics, and
+  quantum theory in a broader sense, such as quantum foundations. "
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-# Education to show in About widget
+  - Condensed matter
+  - nonequilibrium physics
+  - quantum Many-Body theory
+  - statistical mechanics
+  - quantum theory
+  - quantum foundations
+  - mathematical physics
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/oameye
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.be/citations?hl=nl&user=um9RTxAAAAAJ
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/oameye
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/orjanameye/
+organizations:
+  - name: KU Leuven
+    url: https://fys.kuleuven.be/itf
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Highlight the author in author lists? (true/false)
+    - course: Master in theoretical Physics
+      institution: KU Leuven
+      year: 2022
+    - course: Bachelor of Physics
+      institution: KU Leuven
+      year: 2020
+email: orjan.ameye@hotmail.com
+superuser: true
 highlight_name: true
 ---
+I am currently in the last year of my Master's in Physics (option Theoretical Physics) at the Catholic University of Leuven (KU Leuven; Belgium). I have a broad interest in physics, focused on its theoretical, mathematical, and phenomenological aspects, with a special affinity for theoretical condensed matter, such as nonequilibrium physics, quantum Many-Body theory, statistical mechanics, and quantum theory in a broader sense, such as quantum foundations. This culminated in my master’s degree in physics, with a major in high energy physics and a minor in theoretical condensed matter. In my study trajectory, I have never allowed my interests to be overshadowed by intellectual challenges, which eventually paid off during my master’s. Gradually mastering my courses on an upward trajectory, as well as doing research for my master's thesis and research internship, has pushed me to pursue a research career in theoretical physics.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Curriculum_vitae_Orjan_Ameye__2021.pdf" "newtab" >}}resumé{{< /staticref >}}.
