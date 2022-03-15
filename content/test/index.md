@@ -13,4 +13,3 @@ header:
   caption: ""
   image: ""
 ---
-<a class="twitter-timeline" href="https://twitter.com/OrjanAmeye?ref_src=twsrc%5Etfw">Tweets by OrjanAmeye</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
