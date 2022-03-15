@@ -18,10 +18,10 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'A portfolio site for Orjan Ameye.'
+    twitter: 'OrjanAmeye'
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-9FXW5YQEBV'
     baidu_tongji: ''
   verification:
     google: ''
@@ -64,7 +64,7 @@ features:
       - r
       - latex
   math:
-    enable: false
+    enable: true
   diagram:
     enable: false
   privacy_pack:
@@ -74,7 +74,7 @@ features:
     content_dir: content
     branch: master
   avatar:
-    gravatar: false
+    gravatar: true
     shape: circle
   comment:
     provider: ''
