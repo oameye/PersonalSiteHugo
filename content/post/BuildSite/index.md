@@ -49,6 +49,14 @@ header:
 
 [Page Elements: Writing content with Markdown, LaTeX, and Shortcodes](https://wowchemy.com/docs/content/writing-markdown-latex/)
 
+## Google Analytics
+
+```YAML
+google_analytics: '3345897419'
+```
+
+stream id not measurement id
+
 ## Code Highlighting
 
 highlight.js:
@@ -76,3 +84,4 @@ end
        height="500px"
        style="border:none;">
  </iframe>
+
