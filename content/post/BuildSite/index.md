@@ -58,6 +58,18 @@ highlight.js:
 
 ## Jupyter Notebook
 
+```julia
+using Pimc
+
+function test(a::Int64, b::Int64)
+    if a == 1
+        return true
+    else
+        return false
+    end
+end
+```
+
  <iframe
        src="./JupyterColorstyle.html"
        width="100%"
