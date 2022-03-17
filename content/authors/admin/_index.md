@@ -29,6 +29,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/orjanameye/
+  - display:
+      header: false
+    link: https://orcid.org/0000-0001-7082-7300
+    icon_pack: ai
+    icon: orcid
 organizations:
   - name: KU Leuven
     url: https://fys.kuleuven.be/itf
