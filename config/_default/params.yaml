@@ -62,7 +62,7 @@ features:
     enable: true
     extra_languages:
       - julia
-    theme: "github"
+    theme: "nord"
   math:
     enable: true
   diagram:
