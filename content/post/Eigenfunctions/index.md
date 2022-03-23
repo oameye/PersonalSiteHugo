@@ -17,6 +17,7 @@ header:
   caption: ""
   image: ""
 
+# editable: true
 
 ---
 
