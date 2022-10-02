@@ -17,24 +17,24 @@ content:
   autolink: true
 
   # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: true
+  # form:
+  #   provider: netlify
+  #   formspree:
+  #     id:
+  #   netlify:
+  #     # Enable CAPTCHA challenge to reduce spam?
+  #     captcha: true
 
   # Contact details (edit or remove options as required)
   email: orjan.ameye(at)hotmail.com
   # phone: 888 888 88 88
   address:
-    # street: 450 Serra Mall
-    city: Leuven
+    street: Universitätsstraße 10
+    city: Konstanz
     # region: CA
-    postcode: '3000'
-    country: Belgium
-    country_code: BE
+    postcode: '78464'
+    country: Germany
+    country_code: DE
   # coordinates:
   #   latitude: '37.4275'
   #   longitude: '-122.1697'

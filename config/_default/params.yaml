@@ -9,7 +9,7 @@ appearance:
   theme_day: my_theme #minimal
   # theme_night: forest
   font: my_font
-  font_size: L
+  font_size: M
 
 # SEO
 
@@ -18,7 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Researcher named Orjan Ameye at KU Leuven.'
+    description: 'Researcher named Orjan Ameye at the University of Konstanz.'
     twitter: 'OrjanAmeye'
   analytics:
     google_analytics: 'G-M8HXD8TC1K'
