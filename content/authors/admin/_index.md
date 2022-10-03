@@ -2,9 +2,7 @@
 title: Orjan Ameye
 role: PhD candidate in theoretical Physics
 avatar_filename: avatar.jpg
-bio: "My research interests include theoretical condensed matter, such as
-  nonequilibrium physics, quantum Many-Body theory, statistical mechanics, and
-  quantum theory in a broader sense, such as quantum foundations. "
+bio: "PhD student in Theoretical Physics at the University of Konstanz (Germany) in the group of Oded Zilberberg."
 interests:
   - Condensed matter
   - Non-equilibrium Physics
@@ -54,7 +52,7 @@ superuser: true
 highlight_name: true
 ---
 <div style="text-align: justify">
-I am currently in my first year of PhD in Theoretical Physics at the University of Konstanz (Germany). I have a broad interest in physics, focused on its theoretical, mathematical, and phenomenological aspects, with a special affinity for theoretical condensed matter, such as non-equilibrium physics, quantum Many-Body theory, statistical mechanics, and quantum theory in a broader sense. This culminated in my master’s degree in physics, with a major in high energy physics and a minor in theoretical condensed matter. Gradually mastering, as well as doing research for my master's thesis and research internship, has pushed me to pursue a research career in theoretical physics.
+I am currently in my first year PhD student in Theoretical Physics at the University of Konstanz (Germany) in the group of Oded Zilberberg. I have a broad interest in physics, focused on its theoretical, mathematical, and phenomenological aspects, with a special affinity for theoretical condensed matter, such as non-equilibrium physics, quantum Many-Body theory, statistical mechanics, and quantum theory in a broader sense. This culminated in my master’s degree in physics, with a major in high energy physics and a minor in theoretical condensed matter. Gradually mastering, as well as doing research for my master's thesis and research internship, has pushed me to pursue a research career in theoretical physics.
 </div>
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Curriculum_vitae_Orjan_Ameye__2021.pdf" "newtab" >}}resumé{{< /staticref >}}.
